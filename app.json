@@ -31,103 +31,103 @@
     },
     "youtube_email": {
       "value": "Enter Youtube Email",
-      "required": true
+      "required": false
     },
     "youtube_password": {
       "value": "Enter Youtube Password",
-      "required": true
+      "required": false
     },
     "youtube_channel_id": {
       "value": "Enter Youtube Channel ID",
-      "required": true
+      "required": false
     },
     "youtube_useragent": {
       "value": "Enter GO TO chrome://version/ > User Agent > Copy",
-      "required": true
+      "required": false
     },
     "subpals_com_password": {
       "value": "Enter Subpals password",
-      "required": true
+      "required": false
     },
     "sonuker_com_password": {
       "value": "Enter Sonuker password",
-      "required": true
+      "required": false
     },
     "ytpals_com_password": {
       "value": "Enter Ytpals password",
-      "required": true
+      "required": false
     },
     "subscribers_video_email": {
       "value": "Enter Subscribers.video email",
-      "required": true
+      "required": false
     },
     "submenow_com_email": {
       "value": "Enter Submenow email",
-      "required": true
+      "required": false
     },
     "ytmonster_com_username": {
       "value": "Enter Ytmonster Username",
-      "required": true
+      "required": false
     },
     "ytmonster_com_password": {
       "value": "Enter Ytmonster Password",
-      "required": true
+      "required": false
     },
     "ytbpals_com_email": {
       "value": "Enter Ytbpals Email",
-      "required": true
+      "required": false
     },
     "ytbpals_com_password": {
       "value": "Enter Ytbpals Password",
-      "required": true
+      "required": false
     },
     "viewgrip_email": {
       "value": "Enter ViewGrip Email",
-      "required": true
+      "required": false
     },
     "viewgrip_password": {
       "value": "Enter ViewGrip Password",
-      "required": true
+      "required": false
     },
     "goviral_email": {
       "value": "Enter GoViral Email",
-      "required": true
+      "required": false
     },
     "goviral_password": {
       "value": "Enter GoViral Password",
-      "required": true
+      "required": false
     },
     "tolikes_username": {
       "value": "Enter TOLikes Username",
-      "required": true
+      "required": false
     },
     "tolikes_password": {
       "value": "Enter TOLikes Password",
-      "required": true
+      "required": false
     },
     "youtubviews_username": {
       "value": "Enter YOUTUBVIEWS Username",
-      "required": true
+      "required": false
     },
     "youtubviews_password": {
       "value": "Enter YOUTUBVIEWS Password",
-      "required": true
+      "required": false
     },
     "youlikehits_username": {
       "value": "Enter YOULIKEHITS Username",
-      "required": true
+      "required": false
     },
     "youlikehits_password": {
       "value": "Enter YOULIKEHITS Password",
-      "required": true
+      "required": false
     },
     "like4like_username": {
       "value": "Enter YOULIKEHITS Username",
-      "required": true
+      "required": false
     },
     "like4like_password": {
       "value": "Enter YOULIKEHITS Password",
-      "required": true
+      "required": false
     }
   }
 }
